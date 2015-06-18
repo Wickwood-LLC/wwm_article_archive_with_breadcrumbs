@@ -38,4 +38,3 @@ features[variable][] = node_preview_article_post
 features[variable][] = node_submitted_article_post
 features[variable][] = pathauto_node_article_post_pattern
 features[views_view][] = articles_archive
-project status url = http://dev.om.wickwoodmarketing.com//fserver
