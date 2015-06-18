@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the WWM Article Archive with Custom Breadcrumbs feature.
+ */
+
+include_once 'wwm_article_archive_with_breadcrumbs.features.inc';
