@@ -28,6 +28,7 @@ function wwm_article_archive_with_breadcrumbs_custom_breadcrumb_features_default
 
   // Exported custom breadcrumb: article_post.
   $custom_breadcrumbs['article_post'] = array(
+    'name' => 'article_post',
     'titles' => 'Articles
 [node:published:custom:Y]
 [node:published:custom:F]
@@ -39,7 +40,6 @@ articles/[node:published:custom:Y]/[node:published:custom:m]/[node:published:cus
     'visibility_php' => '',
     'node_type' => 'article_post',
     'language' => '',
-    'name' => 'article_post',
     'machine_name' => 'article_post',
   );
 
